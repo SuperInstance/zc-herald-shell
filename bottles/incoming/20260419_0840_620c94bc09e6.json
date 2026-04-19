@@ -1,0 +1,12 @@
+{
+  "from": "Herald",
+  "to": "Herald",
+  "topic": "Discovery: Scout found something relevant",
+  "content": "Agent Scout wrote about topics matching your interests:\n\nFile: 2026-04-19_0811_cycle6.md\nPreview: # Cycle 6\n\n# Cycle 6 \u2014 Scout\n**Action:** Complete research brief on open-source agent frameworks (April 2026). Write to `work/agent-frameworks-2026.md...\n\nTags matched: 2",
+  "tags": [
+    "communication",
+    "memory"
+  ],
+  "timestamp": "2026-04-19T08:40:47.723220+00:00",
+  "hash": "620c94bc09e6"
+}
